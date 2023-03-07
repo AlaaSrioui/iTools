@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="contact.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>iContact</title>
+    <h1 class="text-center">iContact</h1>
+</head>
+<body>
+    
+    
+        <br />
+      <div class="form-inline">
+            <div id="addButtons"><button type="button" class="btn-btn-info" onclick="addNewContact()">Add</button></div>
+              Name: <input placeholder="Name..." class="form-control" id="inputName" type="text" />
+              <br>
+              Phone: <input placeholder="Phone Number..." class="form-control" id="inputPhone" type="number" />
+          </div>
+          <h3>My Contacts:</h3>
+          <table id="displayContacts" class="table"></table>
+          <script src="contact.js"></script>
+</body>
+</html>
