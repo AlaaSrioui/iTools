@@ -1,0 +1,447 @@
+body{
+    background-image: url(https://getwallpapers.com/wallpaper/full/0/9/9/331255.jpg);
+    background-size:cover
+}
+h1{
+    position: fixed;
+    right: 1200px;
+    bottom: 500px;
+    font-size: 6rem;
+    color: rgb(209, 201, 161);
+    font-family: system-ui;
+    font-style: normal;
+    font-weight: 300;
+    src:local(".SFNSText-Light"), local(".HelveticaNeueDeskInterface-Light"), local(".LucidaGrandeUI"), local("Ubuntu Light"), local("Segoe UI Light"), local("Roboto-Light"), local("DroidSans"), local("Tahoma");
+  }
+
+#loc {
+    position: fixed;
+    right:1200px;
+    bottom:450px;
+  appearance: none;
+  background-color: #9c9595;
+  border-radius: 40em;
+  border-style: none;
+  box-shadow: #484a4d 0 -12px 6px inset;
+  box-sizing: border-box;
+  color: #000000;
+  cursor: pointer;
+  display: inline-block;
+  font-family: -apple-system,sans-serif;
+  font-size: 1.2rem;
+  font-weight: 700;
+  letter-spacing: -.24px;
+  margin: 0;
+  outline: none;
+  padding: 1rem 1.3rem;
+  quotes: auto;
+  text-align: center;
+  text-decoration: none;
+  transition: all .15s;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+#loc:hover {
+  background-color: #e5e1d8;
+  box-shadow: #ebe3e0 0 -6px 8px inset;
+  transform: scale(1.125);
+}
+
+#loc:active {
+  transform: scale(1.025);
+}
+
+@media (min-width: 768px) {
+    #loc-73 {
+    font-size: 1.5rem;
+    padding: .75rem 2rem;
+  }
+}
+#int {
+    position: fixed;
+    right:400px;
+    bottom:450px;
+    appearance: none;
+    background-color: #9c9595;
+    border-radius: 40em;
+    border-style: none;
+    box-shadow: #484a4d 0 -12px 6px inset;
+    box-sizing: border-box;
+    color: #000000;
+    cursor: pointer;
+    display: inline-block;
+    font-family: -apple-system,sans-serif;
+    font-size: 1.2rem;
+    font-weight: 700;
+    letter-spacing: -.24px;
+    margin: 0;
+    outline: none;
+    padding: 1rem 1.3rem;
+    quotes: auto;
+    text-align: center;
+    text-decoration: none;
+    transition: all .15s;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+  }
+  
+  #int:hover {
+    background-color: #e5e1d8;
+    box-shadow: #ebe3e0 0 -6px 8px inset;
+    transform: scale(1.125);
+  }
+#r1{
+  background-color: #00000000;
+    border: none;
+    position: fixed;
+    right: 1100px;
+    bottom: 350px;
+    font-size: 2rem;
+    color: rgb(186, 164, 55);
+    font-family: system-ui;
+    font-style: normal;
+    font-weight: 300;
+    src:local(".SFNSText-Light"), local(".HelveticaNeueDeskInterface-Light"), local(".LucidaGrandeUI"), local("Ubuntu Light"), local("Segoe UI Light"), local("Roboto-Light"), local("DroidSans"), local("Tahoma");
+  }
+  #r2{
+    background-color: #00000000;
+    border: none;
+    position: fixed;
+    right: 1100px;
+    bottom: 300px;
+    font-size: 2rem;
+    color: rgb(186, 164, 55);
+    font-family: system-ui;
+    font-style: normal;
+    font-weight: 300;
+    src:local(".SFNSText-Light"), local(".HelveticaNeueDeskInterface-Light"), local(".LucidaGrandeUI"), local("Ubuntu Light"), local("Segoe UI Light"), local("Roboto-Light"), local("DroidSans"), local("Tahoma");
+  }
+  #r3{
+    background-color: #00000000;
+    border: none;
+    position: fixed;
+    right: 1100px;
+    bottom: 250px;
+    font-size: 2rem;
+    color: rgb(186, 164, 55);
+    font-family: system-ui;
+    font-style: normal;
+    font-weight: 300;
+    src:local(".SFNSText-Light"), local(".HelveticaNeueDeskInterface-Light"), local(".LucidaGrandeUI"), local("Ubuntu Light"), local("Segoe UI Light"), local("Roboto-Light"), local("DroidSans"), local("Tahoma");
+  }
+  #r4{
+    background-color: #00000000;
+    border: none;
+    position: fixed;
+    right: 1100px;
+    bottom: 200px;
+    font-size: 2rem;
+    color: rgb(186, 164, 55);
+    font-family: system-ui;
+    font-style: normal;
+    font-weight: 300;
+    src:local(".SFNSText-Light"), local(".HelveticaNeueDeskInterface-Light"), local(".LucidaGrandeUI"), local("Ubuntu Light"), local("Segoe UI Light"), local("Roboto-Light"), local("DroidSans"), local("Tahoma");
+  }
+  #r5{
+    background-color: #00000000;
+    border: none;
+    position: fixed;
+    right: 1100px;
+    bottom: 150px;
+    font-size: 2rem;
+    color: rgb(186, 164, 55);
+    font-family: system-ui;
+    font-style: normal;
+    font-weight: 300;
+    src:local(".SFNSText-Light"), local(".HelveticaNeueDeskInterface-Light"), local(".LucidaGrandeUI"), local("Ubuntu Light"), local("Segoe UI Light"), local("Roboto-Light"), local("DroidSans"), local("Tahoma");
+  }
+  #r6{
+    background-color: #00000000;
+    border: none;
+    position: fixed;
+    right: 500px;
+    bottom: 350px;
+    font-size: 2rem;
+    color: rgb(186, 164, 55);
+    font-family: system-ui;
+    font-style: normal;
+    font-weight: 300;
+    src:local(".SFNSText-Light"), local(".HelveticaNeueDeskInterface-Light"), local(".LucidaGrandeUI"), local("Ubuntu Light"), local("Segoe UI Light"), local("Roboto-Light"), local("DroidSans"), local("Tahoma");
+  }
+  #r7{
+    background-color: #00000000;
+    border: none;
+    position: fixed;
+    right: 500px;
+    bottom: 300px;
+    font-size: 2rem;
+    color: rgb(186, 164, 55);
+    font-family: system-ui;
+    font-style: normal;
+    font-weight: 300;
+    src:local(".SFNSText-Light"), local(".HelveticaNeueDeskInterface-Light"), local(".LucidaGrandeUI"), local("Ubuntu Light"), local("Segoe UI Light"), local("Roboto-Light"), local("DroidSans"), local("Tahoma");
+  }
+  #r8{
+    background-color: #00000000;
+    border: none;
+    position: fixed;
+    right: 500px;
+    bottom: 250px;
+    font-size: 2rem;
+    color: rgb(186, 164, 55);
+    font-family: system-ui;
+    font-style: normal;
+    font-weight: 300;
+    src:local(".SFNSText-Light"), local(".HelveticaNeueDeskInterface-Light"), local(".LucidaGrandeUI"), local("Ubuntu Light"), local("Segoe UI Light"), local("Roboto-Light"), local("DroidSans"), local("Tahoma");
+  }
+  #r9{
+    background-color: #00000000;
+    border: none;
+    position: fixed;
+    right: 500px;
+    bottom: 200px;
+    font-size: 2rem;
+    color: rgb(186, 164, 55);
+    font-family: system-ui;
+    font-style: normal;
+    font-weight: 300;
+    src:local(".SFNSText-Light"), local(".HelveticaNeueDeskInterface-Light"), local(".LucidaGrandeUI"), local("Ubuntu Light"), local("Segoe UI Light"), local("Roboto-Light"), local("DroidSans"), local("Tahoma");
+  }
+  #r10{
+    background-color: #00000000;
+    border: none;
+    position: fixed;
+    right: 500px;
+    bottom: 150px;
+    font-size: 2rem;
+    color: rgb(186, 164, 55);
+    font-family: system-ui;
+    font-style: normal;
+    font-weight: 300;
+    src:local(".SFNSText-Light"), local(".HelveticaNeueDeskInterface-Light"), local(".LucidaGrandeUI"), local("Ubuntu Light"), local("Segoe UI Light"), local("Roboto-Light"), local("DroidSans"), local("Tahoma");
+  }
+
+  #p1{
+    position: fixed;
+    right: 1000px;
+    bottom: 350px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 10px 20px;
+      font-family: -apple-system, BlinkMacSystemFont, 'Roboto', sans-serif;
+      border-radius: 100px;
+      border: none;
+      background: #6E6D70;
+      box-shadow: 0px 0.5px 1px rgba(0, 0, 0, 0.1), inset 0px 0.5px 0.5px rgba(255, 255, 255, 0.5), 0px 0px 0px 0.5px rgba(0, 0, 0, 0.12);
+      color: #DFDEDF;
+      user-select: none;
+      -webkit-user-select: none;
+      touch-action: manipulation;
+    }
+    #p1:focus {
+      box-shadow: inset 0px 0.8px 0px -0.25px rgba(255, 255, 255, 0.2), 0px 0.5px 1px rgba(0, 0, 0, 0.1), 0px 0px 0px 3.5px rgba(58, 108, 217, 0.5);
+      outline: 0;
+    }
+    #p2{
+      position: fixed;
+    right: 1000px;
+    bottom: 300px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 10px 20px;
+      font-family: -apple-system, BlinkMacSystemFont, 'Roboto', sans-serif;
+      border-radius: 100px;
+      border: none;
+      background: #6E6D70;
+      box-shadow: 0px 0.5px 1px rgba(0, 0, 0, 0.1), inset 0px 0.5px 0.5px rgba(255, 255, 255, 0.5), 0px 0px 0px 0.5px rgba(0, 0, 0, 0.12);
+      color: #DFDEDF;
+      user-select: none;
+      -webkit-user-select: none;
+      touch-action: manipulation;
+    }
+    #p3:focus {
+      box-shadow: inset 0px 0.8px 0px -0.25px rgba(255, 255, 255, 0.2), 0px 0.5px 1px rgba(0, 0, 0, 0.1), 0px 0px 0px 3.5px rgba(58, 108, 217, 0.5);
+      outline: 0;
+    }
+    #p3{
+      position: fixed;
+    right: 1000px;
+    bottom: 250px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 10px 20px;
+      font-family: -apple-system, BlinkMacSystemFont, 'Roboto', sans-serif;
+      border-radius: 100px;
+      border: none;
+      background: #6E6D70;
+      box-shadow: 0px 0.5px 1px rgba(0, 0, 0, 0.1), inset 0px 0.5px 0.5px rgba(255, 255, 255, 0.5), 0px 0px 0px 0.5px rgba(0, 0, 0, 0.12);
+      color: #DFDEDF;
+      user-select: none;
+      -webkit-user-select: none;
+      touch-action: manipulation;
+    }
+    #p3:focus {
+      box-shadow: inset 0px 0.8px 0px -0.25px rgba(255, 255, 255, 0.2), 0px 0.5px 1px rgba(0, 0, 0, 0.1), 0px 0px 0px 3.5px rgba(58, 108, 217, 0.5);
+      outline: 0;
+    }
+    #p4{
+      position: fixed;
+    right: 1000px;
+    bottom: 200px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 10px 20px;
+      font-family: -apple-system, BlinkMacSystemFont, 'Roboto', sans-serif;
+      border-radius: 100px;
+      border: none;
+      background: #6E6D70;
+      box-shadow: 0px 0.5px 1px rgba(0, 0, 0, 0.1), inset 0px 0.5px 0.5px rgba(255, 255, 255, 0.5), 0px 0px 0px 0.5px rgba(0, 0, 0, 0.12);
+      color: #DFDEDF;
+      user-select: none;
+      -webkit-user-select: none;
+      touch-action: manipulation;
+    }
+    #p4:focus {
+      box-shadow: inset 0px 0.8px 0px -0.25px rgba(255, 255, 255, 0.2), 0px 0.5px 1px rgba(0, 0, 0, 0.1), 0px 0px 0px 3.5px rgba(58, 108, 217, 0.5);
+      outline: 0;
+    }
+    #p5{
+      position: fixed;
+    right: 1000px;
+    bottom: 150px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 10px 20px;
+      font-family: -apple-system, BlinkMacSystemFont, 'Roboto', sans-serif;
+      border-radius: 100px;
+      border: none;
+      background: #6E6D70;
+      box-shadow: 0px 0.5px 1px rgba(0, 0, 0, 0.1), inset 0px 0.5px 0.5px rgba(255, 255, 255, 0.5), 0px 0px 0px 0.5px rgba(0, 0, 0, 0.12);
+      color: #DFDEDF;
+      user-select: none;
+      -webkit-user-select: none;
+      touch-action: manipulation;
+    }
+    #p5:focus {
+      box-shadow: inset 0px 0.8px 0px -0.25px rgba(255, 255, 255, 0.2), 0px 0.5px 1px rgba(0, 0, 0, 0.1), 0px 0px 0px 3.5px rgba(58, 108, 217, 0.5);
+      outline: 0;
+    }
+    #p6{
+      position: fixed;
+    right: 400px;
+    bottom: 350px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 10px 20px;
+      font-family: -apple-system, BlinkMacSystemFont, 'Roboto', sans-serif;
+      border-radius: 100px;
+      border: none;
+      background: #6E6D70;
+      box-shadow: 0px 0.5px 1px rgba(0, 0, 0, 0.1), inset 0px 0.5px 0.5px rgba(255, 255, 255, 0.5), 0px 0px 0px 0.5px rgba(0, 0, 0, 0.12);
+      color: #DFDEDF;
+      user-select: none;
+      -webkit-user-select: none;
+      touch-action: manipulation;
+    }
+    #p6:focus {
+      box-shadow: inset 0px 0.8px 0px -0.25px rgba(255, 255, 255, 0.2), 0px 0.5px 1px rgba(0, 0, 0, 0.1), 0px 0px 0px 3.5px rgba(58, 108, 217, 0.5);
+      outline: 0;
+    }
+    #p7{
+      position: fixed;
+    right: 400px;
+    bottom: 300px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 10px 20px;
+      font-family: -apple-system, BlinkMacSystemFont, 'Roboto', sans-serif;
+      border-radius: 100px;
+      border: none;
+      background: #6E6D70;
+      box-shadow: 0px 0.5px 1px rgba(0, 0, 0, 0.1), inset 0px 0.5px 0.5px rgba(255, 255, 255, 0.5), 0px 0px 0px 0.5px rgba(0, 0, 0, 0.12);
+      color: #DFDEDF;
+      user-select: none;
+      -webkit-user-select: none;
+      touch-action: manipulation;
+    }
+    #p7:focus {
+      box-shadow: inset 0px 0.8px 0px -0.25px rgba(255, 255, 255, 0.2), 0px 0.5px 1px rgba(0, 0, 0, 0.1), 0px 0px 0px 3.5px rgba(58, 108, 217, 0.5);
+      outline: 0;
+    }
+    #p8{
+      position: fixed;
+    right: 400px;
+    bottom: 250px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 10px 20px;
+      font-family: -apple-system, BlinkMacSystemFont, 'Roboto', sans-serif;
+      border-radius: 100px;
+      border: none;
+      background: #6E6D70;
+      box-shadow: 0px 0.5px 1px rgba(0, 0, 0, 0.1), inset 0px 0.5px 0.5px rgba(255, 255, 255, 0.5), 0px 0px 0px 0.5px rgba(0, 0, 0, 0.12);
+      color: #DFDEDF;
+      user-select: none;
+      -webkit-user-select: none;
+      touch-action: manipulation;
+    }
+    #p8:focus {
+      box-shadow: inset 0px 0.8px 0px -0.25px rgba(255, 255, 255, 0.2), 0px 0.5px 1px rgba(0, 0, 0, 0.1), 0px 0px 0px 3.5px rgba(58, 108, 217, 0.5);
+      outline: 0;
+    }
+    #p9{
+      position: fixed;
+    right: 400px;
+    bottom: 200px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 10px 20px;
+      font-family: -apple-system, BlinkMacSystemFont, 'Roboto', sans-serif;
+      border-radius: 100px;
+      border: none;
+      background: #6E6D70;
+      box-shadow: 0px 0.5px 1px rgba(0, 0, 0, 0.1), inset 0px 0.5px 0.5px rgba(255, 255, 255, 0.5), 0px 0px 0px 0.5px rgba(0, 0, 0, 0.12);
+      color: #DFDEDF;
+      user-select: none;
+      -webkit-user-select: none;
+      touch-action: manipulation;
+    }
+    #p9:focus {
+      box-shadow: inset 0px 0.8px 0px -0.25px rgba(255, 255, 255, 0.2), 0px 0.5px 1px rgba(0, 0, 0, 0.1), 0px 0px 0px 3.5px rgba(58, 108, 217, 0.5);
+      outline: 0;
+    }
+    #p10{
+      position: fixed;
+    right: 400px;
+    bottom: 150px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 10px 20px;
+      font-family: -apple-system, BlinkMacSystemFont, 'Roboto', sans-serif;
+      border-radius: 100px;
+      border: none;
+      background: #6E6D70;
+      box-shadow: 0px 0.5px 1px rgba(0, 0, 0, 0.1), inset 0px 0.5px 0.5px rgba(255, 255, 255, 0.5), 0px 0px 0px 0.5px rgba(0, 0, 0, 0.12);
+      color: #DFDEDF;
+      user-select: none;
+      -webkit-user-select: none;
+      touch-action: manipulation;
+    }
+    #p10:focus {
+      box-shadow: inset 0px 0.8px 0px -0.25px rgba(255, 255, 255, 0.2), 0px 0.5px 1px rgba(0, 0, 0, 0.1), 0px 0px 0px 3.5px rgba(58, 108, 217, 0.5);
+      outline: 0;
+    }
+

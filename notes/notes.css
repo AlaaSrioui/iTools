@@ -1,0 +1,225 @@
+body{ 
+  background-attachment: fixed;
+    background-image:url(https://getwallpapers.com/wallpaper/full/0/9/9/331255.jpg);
+background-size: cover;
+}
+
+h1{
+  position: fixed;
+  right: 1250px;
+  bottom: 500px;
+  font-size: 6rem;
+  color: aliceblue;
+  font-family: system-ui;
+  font-style: normal;
+  font-weight: 300;
+  src:local(".SFNSText-Light"), local(".HelveticaNeueDeskInterface-Light"), local(".LucidaGrandeUI"), local("Ubuntu Light"), local("Segoe UI Light"), local("Roboto-Light"), local("DroidSans"), local("Tahoma");
+}
+#add {
+    position:fixed;
+    right: 500px;
+    bottom: 500px;
+    border: 5em;
+    cursor: pointer;
+    outline: none;
+    font-size: 16px;
+    -webkit-transform: translate(0);
+    transform: translate(0);
+    background-image: linear-gradient(45deg, #85888f, #353535);
+    padding: 0.7em 2em;
+    border-radius: 65px;
+    box-shadow: 1px 1px 10px rgba(255, 255, 255, 0.438);
+    -webkit-transition: box-shadow 0.25s;
+    transition: box-shadow 0.25s;
+    color: white;
+  }
+  
+  #add .text {
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-image: linear-gradient(45deg, #42444a, #b06ab3);
+  }
+  
+  #add:after {
+    content: "";
+    border-radius: 18px;
+    position: absolute;
+    margin: 4px;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    z-index: -1;
+    background: #7f7f85;
+  }
+  
+  #add:hover {
+    background-image: linear-gradient(-45deg, #606266, #2e2a2e);
+    box-shadow: 0 12px 24px rgba(128, 128, 128, 0.1);
+  }
+  
+  #add:hover .text {
+    background-image: linear-gradient(-45deg, #c7cbdb, #232123);
+  }
+  #deleteF {
+    position:fixed;
+    right: 1100px;
+    bottom: 150px;
+    border: 5em;
+    cursor: pointer;
+    outline: none;
+    font-size: 16px;
+    -webkit-transform: translate(0);
+    transform: translate(0);
+    background-image: linear-gradient(45deg, #85888f, #353535);
+    padding: 0.7em 2em;
+    border-radius: 65px;
+    box-shadow: 1px 1px 10px rgba(255, 255, 255, 0.438);
+    -webkit-transition: box-shadow 0.25s;
+    transition: box-shadow 0.25s;
+    color: white;
+  }
+  
+  #deleteF .text {
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-image: linear-gradient(45deg, #42444a, #b06ab3);
+  }
+  
+  #deleteF:after {
+    content: "";
+    border-radius: 18px;
+    position: absolute;
+    margin: 4px;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    z-index: -1;
+    background: #7f7f85;
+  }
+  
+  #deleteF:hover {
+    background-image: linear-gradient(-45deg, #606266, #2e2a2e);
+    box-shadow: 0 12px 24px rgba(128, 128, 128, 0.1);
+  }
+  #deleteF:hover .text {
+    background-image: linear-gradient(-45deg, #c7cbdb, #232123);
+  }
+
+
+  #deleteL {
+    position:fixed;
+    right: 1100px;
+    bottom: 100px;
+    border: 5em;
+    cursor: pointer;
+    outline: none;
+    font-size: 16px;
+    -webkit-transform: translate(0);
+    transform: translate(0);
+    background-image: linear-gradient(45deg, #85888f, #353535);
+    padding: 0.7em 2em;
+    border-radius: 65px;
+    box-shadow: 1px 1px 10px rgba(255, 255, 255, 0.438);
+    -webkit-transition: box-shadow 0.25s;
+    transition: box-shadow 0.25s;
+    color: white;
+  }
+  
+  #deleteL .text {
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-image: linear-gradient(45deg, #42444a, #b06ab3);
+  }
+  
+  #deleteL:after {
+    content: "";
+    border-radius: 18px;
+    position: absolute;
+    margin: 4px;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    z-index: -1;
+    background: #7f7f85;
+  }
+  
+  #deleteL:hover {
+    background-image: linear-gradient(-45deg, #606266, #2e2a2e);
+    box-shadow: 0 12px 24px rgba(128, 128, 128, 0.1);
+  }
+  #deleteL:hover .text {
+    background-image: linear-gradient(-45deg, #c7cbdb, #232123);
+  }
+
+  
+  #noteInput {
+    position:fixed;
+    right: 600px;
+    bottom: 500px;
+    border: 5em;
+    cursor: pointer;
+    outline: none;
+    font-size: 16px;
+    -webkit-transform: translate(0);
+    transform: translate(0);
+    background-image: linear-gradient(45deg, #85888f, #353535);
+    padding: 0.7em 2em;
+    border-radius: 65px;
+    box-shadow: 1px 1px 10px rgba(255, 255, 255, 0.438);
+    -webkit-transition: box-shadow 0.25s;
+    transition: box-shadow 0.25s;
+    color: white;
+  }
+  
+  #noteInput .text {
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-image: linear-gradient(45deg, #42444a, #b06ab3);
+  }
+  
+  #noteInput:after {
+    content: "";
+    border-radius: 18px;
+    position: absolute;
+    margin: 4px;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    z-index: -1;
+    background: #7f7f85;
+  }
+  
+  #noteInput:hover {
+    background-image: linear-gradient(-45deg, #606266, #2e2a2e);
+    box-shadow: 0 12px 24px rgba(128, 128, 128, 0.1);
+  }
+  #noteInput:hover .text {
+    background-image: linear-gradient(-45deg, #c7cbdb, #232123);
+  }
+
+  #notesList{
+    font-size: 3rem;
+    color: aliceblue;
+    font-family: system-ui;
+    font-style: normal;
+    font-weight: 100;
+    src:local(".SFNSText-Light"), local(".HelveticaNeueDeskInterface-Light"), local(".LucidaGrandeUI"), local("Ubuntu Light"), local("Segoe UI Light"), local("Roboto-Light"), local("DroidSans"), local("Tahoma");
+  }
+  p{
+    position: relative;
+    right:-650px;
+     bottom:-150px;
+  }
+
+  
+
+  
+  
