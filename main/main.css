@@ -1,0 +1,148 @@
+body{
+  background-image: url(imgs/background.jpg);
+  background-size:cover
+}
+h1{
+  position: fixed;
+  right: 1250px;
+  bottom: 500px;
+  font-size: 6rem;
+  color: aliceblue;
+  font-family: system-ui;
+  font-style: normal;
+  font-weight: 300;
+  src:local(".SFNSText-Light"), local(".HelveticaNeueDeskInterface-Light"), local(".LucidaGrandeUI"), local("Ubuntu Light"), local("Segoe UI Light"), local("Roboto-Light"), local("DroidSans"), local("Tahoma");
+}
+#cal{
+  position:absolute;
+  right: 600px;
+  bottom: 400px;
+  color: rgb(241, 211, 172);
+  font-size: 3rem;
+  font-family: system-ui;
+  font-weight: 300;
+  src:local(".SFNSText-Light"), local(".HelveticaNeueDeskInterface-Light"), local(".LucidaGrandeUI"), local("Ubuntu Light"), local("Segoe UI Light"), local("Roboto-Light"), local("DroidSans"), local("Tahoma");
+  background-color: unset;
+  padding-block:unset;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  
+}
+#agn{
+  position:absolute;
+  right: 280px;
+  bottom: 400px;
+  color: rgb(241, 211, 172);
+  font-size: 3rem;
+  font-family: system-ui;
+  font-weight: 300;
+  src:local(".SFNSText-Light"), local(".HelveticaNeueDeskInterface-Light"), local(".LucidaGrandeUI"), local("Ubuntu Light"), local("Segoe UI Light"), local("Roboto-Light"), local("DroidSans"), local("Tahoma");
+  background-color: unset;
+  padding-block:unset;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+#not{
+  position:absolute;
+  right: 1000px;
+  bottom: 100px;
+  color: rgb(241, 211, 172);
+  font-size: 3rem;
+  font-family: system-ui;
+  font-weight: 300;
+  src:local(".SFNSText-Light"), local(".HelveticaNeueDeskInterface-Light"), local(".LucidaGrandeUI"), local("Ubuntu Light"), local("Segoe UI Light"), local("Roboto-Light"), local("DroidSans"), local("Tahoma");
+  background-color: unset;
+  padding-block:unset;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+#que{
+  position:absolute;
+  right: 300px;
+  bottom: 100px;
+  color: rgb(241, 211, 172);
+  font-size: 3rem;
+  font-family: system-ui;
+  font-weight: 300;
+  src:local(".SFNSText-Light"), local(".HelveticaNeueDeskInterface-Light"), local(".LucidaGrandeUI"), local("Ubuntu Light"), local("Segoe UI Light"), local("Roboto-Light"), local("DroidSans"), local("Tahoma");
+  background-color: unset;
+  padding-block:unset;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+#con{
+  position:absolute;
+  right: 1000px;
+  bottom: 400px;
+  color: rgb(241, 211, 172);
+  font-size: 3rem;
+  font-family: system-ui;
+  font-weight: 300;
+  src:local(".SFNSText-Light"), local(".HelveticaNeueDeskInterface-Light"), local(".LucidaGrandeUI"), local("Ubuntu Light"), local("Segoe UI Light"), local("Roboto-Light"), local("DroidSans"), local("Tahoma");
+  background-color: unset;
+  padding-block:unset;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+#rad{
+  position:absolute;
+  right: 650px;
+  bottom: 100px;
+  color: rgb(241, 211, 172);
+  font-size: 3rem;
+  font-family: system-ui;
+  font-weight: 300;
+  src:local(".SFNSText-Light"), local(".HelveticaNeueDeskInterface-Light"), local(".LucidaGrandeUI"), local("Ubuntu Light"), local("Segoe UI Light"), local("Roboto-Light"), local("DroidSans"), local("Tahoma");
+  background-color: unset;
+  padding-block:unset;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+#cal1{
+  height: auto;
+  max-width: 8%;
+  position: fixed;
+  bottom: 460px;
+  right: 650px;
+}
+#con1{
+  height: auto;
+  max-width: 8%;
+  position: fixed;
+  bottom: 460px;
+  right: 1000px;
+}
+#agn1{
+  height: auto;
+  max-width: 8%;
+  position: fixed;
+  bottom: 460px;
+  right: 300px;
+}
+#not1{
+  height: auto;
+  max-width: 8%;
+  position: fixed;
+  bottom: 170px;
+  right: 1000px;
+}
+#que1{
+  height: auto;
+  max-width: 8%;
+  position: fixed;
+  bottom: 170px;
+  right: 300px;
+}
+#rad1{
+  height: auto;
+  max-width: 8%;
+  position: fixed;
+  bottom: 170px;
+  right: 650px;
+}

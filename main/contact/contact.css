@@ -1,0 +1,155 @@
+body{
+    background-image: url("imgs/background.jpg");
+    background-size: 100%;
+    background-attachment: fixed;
+
+
+}
+h1{
+    font-size: 6rem;
+    color: aliceblue;
+    font-family: system-ui;
+    font-style: normal;
+    font-weight: 300;
+    src:local(".SFNSText-Light"), local(".HelveticaNeueDeskInterface-Light"), local(".LucidaGrandeUI"), local("Ubuntu Light"), local("Segoe UI Light"), local("Roboto-Light"), local("DroidSans"), local("Tahoma");
+    }
+.contact-input{
+    background-size: 80px;
+}
+#inputName{
+          font-size: 40px;
+          position: relative;
+          bottom: 10px;
+          left: 15px;
+}
+#inputPhone{
+  font-size: 40px;
+  position: relative;
+  bottom: 10px;
+}
+.text-center{
+    margin-top: 10px;
+    font-size: 6rem;
+      color: aliceblue;
+      font-family: system-ui;
+      font-style: normal;
+      font-weight: 300;
+      src:local(".SFNSText-Light"), local(".HelveticaNeueDeskInterface-Light"), local(".LucidaGrandeUI"), local("Ubuntu Light"), local("Segoe UI Light"), local("Roboto-Light"), local("DroidSans"), local("Tahoma");
+      }
+.form-inline{
+    font-size: 6rem;
+    color: aliceblue;
+    font-family: system-ui;
+    font-style: normal;
+    font-weight: 100;
+    src:local(".SFNSText-Light"), local(".HelveticaNeueDeskInterface-Light"), local(".LucidaGrandeUI"), local("Ubuntu Light"), local("Segoe UI Light"), local("Roboto-Light"), local("DroidSans"), local("Tahoma");
+    }
+h3{
+    font-size: 6rem;
+    color: aliceblue;
+    font-family: system-ui;
+    font-style: normal;
+    font-weight: 100;
+    src:local(".SFNSText-Light"), local(".HelveticaNeueDeskInterface-Light"), local(".LucidaGrandeUI"), local("Ubuntu Light"), local("Segoe UI Light"), local("Roboto-Light"), local("DroidSans"), local("Tahoma");
+    }
+#displayContacts{
+    font-size: 3rem;
+    color: aliceblue;
+    font-family: system-ui;
+    font-style: normal;
+    font-weight: 100;
+    src:local(".SFNSText-Light"), local(".HelveticaNeueDeskInterface-Light"), local(".LucidaGrandeUI"), local("Ubuntu Light"), local("Segoe UI Light"), local("Roboto-Light"), local("DroidSans"), local("Tahoma");
+    }
+    .btn-btn-info {
+        position:relative;
+         left: 1100px;
+         top: 170px;
+         border: 5em;
+         cursor: pointer;
+         outline: none;
+         font-size: 25px;
+         -webkit-transform: translate(0);
+         transform: translate(0);
+         background-image: linear-gradient(45deg, #85888f, #353535);
+         padding: 0.7em 2em;
+         border-radius: 65px;
+         box-shadow: 1px 1px 10px rgba(255, 255, 255, 0.438);
+         -webkit-transition: box-shadow 0.25s;
+         transition: box-shadow 0.25s;
+         color: white;
+       }
+     
+       .btn-btn-info .text {
+         background-clip: text;
+         -webkit-background-clip: text;
+         -webkit-text-fill-color: transparent;
+         background-image: linear-gradient(45deg, #42444a, #b06ab3);
+       }
+     
+       .btn-btn-info:after {
+         content: "";
+         border-radius: 18px;
+         position: absolute;
+         margin: 4px;
+         top: 0;
+         left: 0;
+         bottom: 0;
+         right: 0;
+         z-index: -1;
+         background: #7f7f85;
+       }
+     
+       .btn-btn-info:hover {
+         background-image: linear-gradient(-45deg, #606266, #2e2a2e);
+         box-shadow: 0 12px 24px rgba(128, 128, 128, 0.1);
+       }
+     
+       .btn-btn-info:hover .text {
+         background-image: linear-gradient(-45deg, #c7cbdb, #232123);
+       }
+       .btn-danger {
+        position:relative;
+         left: 25px;
+         border: 5em;
+         cursor: pointer;
+         outline: none;
+         font-size: 25px;
+         -webkit-transform: translate(0);
+         transform: translate(0);
+         background-image: linear-gradient(45deg, #85888f, #353535);
+         padding: 0.7em 2em;
+         border-radius: 65px;
+         box-shadow: 1px 1px 10px rgba(255, 255, 255, 0.438);
+         -webkit-transition: box-shadow 0.25s;
+         transition: box-shadow 0.25s;
+         color: white;
+       }
+     
+       .btn-danger .text {
+         background-clip: text;
+         -webkit-background-clip: text;
+         -webkit-text-fill-color: transparent;
+         background-image: linear-gradient(45deg, #42444a, #b06ab3);
+       }
+     
+       .btn-danger:after {
+         content: "";
+         border-radius: 18px;
+         position: absolute;
+         margin: 4px;
+         top: 0;
+         left: 0;
+         bottom: 0;
+         right: 0;
+         z-index: -1;
+         background: #7f7f85;
+       }
+     
+       .btn-danger:hover {
+         background-image: linear-gradient(-45deg, #606266, #2e2a2e);
+         box-shadow: 0 12px 24px rgba(128, 128, 128, 0.1);
+       }
+     
+       .btn-danger:hover .text {
+         background-image: linear-gradient(-45deg, #c7cbdb, #232123);
+       }
